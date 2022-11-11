@@ -8,15 +8,16 @@ export const TransactionsContainer = styled.div`
 `
 
 export const TransactionsTable = styled.table`
- width: 100%;
- border-colapse: separate;
- border-spacing: 0 0.5rem;
+  width: 100%;
+  border-colapse: separate;
+  border-spacing: 0 0.5rem;
+  margin-top: 1.5rem;
 
- td {
-   padding: 1.25rem 2rem;
-   background: ${props => props.theme['gray-700']};
+td {
+ padding: 1.25rem 2rem;
+ background: ${props => props.theme['gray-700']};
 
-    &:first-child {
+  &:first-child {
        border-top-left-radius: 6px;
        border-bottom-left-radius: 6px;
    }
