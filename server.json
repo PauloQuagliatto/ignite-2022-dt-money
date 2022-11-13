@@ -15,6 +15,22 @@
       "category": "Compra",
       "price": 20,
       "createdAt": "2022-12-23T19:09:54.505Z"
+    },
+    {
+      "description": "Dois mcacacos",
+      "category": "EU QUIS",
+      "price": 700,
+      "type": "outcome",
+      "createdAt": "2022-11-13T19:35:26.086Z",
+      "id": 3
+    },
+    {
+      "description": "Produção de APP",
+      "category": "Trabson",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2022-11-13T19:35:54.575Z",
+      "id": 4
     }
   ]
 }
